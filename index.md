@@ -6,3 +6,6 @@ My first markdown
 ``` Python
 print('Hello World!')
 ```
+- [ ] 10km Running
+- [ ] MSLearn Git
+- [x] Print extra bumpers
